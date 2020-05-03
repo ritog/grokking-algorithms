@@ -15,5 +15,3 @@ def binary_search(ls, item):
             high = mid - 1
 
     return
-
-print(binary_search([12, 14, 23, 67, 89, 312], 89))
